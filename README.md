@@ -4,11 +4,7 @@ Discord Tag: 👑 Mr.TnT.#0002
 
 Discord Server: https://discord.gg/qkqYGyn (Un-official, Un-related to FiveM in any way).
 
-My FiveM Server (Allowed language: Arabic): Soon.
-
 My Website: Soon.
-
-FiveM TeamSpeak3: Soon.
  
 After searching the web for a long time, i couldn't find a good source FiveM ready cars. All what i found was Add-ons that need to be converted  and need some work to do, so for example if you want to install like 20 addon car to your server that will take you more than 2 hours, at least  in my case. And i'm sure a lot of you just like me!
  
