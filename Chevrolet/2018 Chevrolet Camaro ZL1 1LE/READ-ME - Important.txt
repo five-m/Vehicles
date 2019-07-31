@@ -1,0 +1,5 @@
+Cars pack by Mr.TnT.
+
+rename this folder from  2018 Chevrolet Camaro ZL1 1LE > -TO- > camarozl1
+
+add start camarozl1 to your server.cfg
