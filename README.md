@@ -12,3 +12,19 @@ So here is a ready FiveM ready cars pack, You can just go into the company name 
 I'll try to keep this up to date as much as i can.
  
 Your feedback is much appreciated.
+
+How to install
+
+In each vehicle folder you will see READ-ME - Important.txt, read that to know the change you have to make.
+you are adviced to changed folder to be the same vehicle name, spawn name. I don't think it's required, but it's better. Correct me if i'm wrong.
+
+Do not upload special characters or use non english folder names, that will not work.
+
+Use the server.cfg and copy it's content to your own server.cfg WARNING: DO NOT REPLACE!!!.
+
+
+Changelog:
+v1.1
+Added "Chevrolet".
+Added "Cadillac".
+Added "server.cfg".
