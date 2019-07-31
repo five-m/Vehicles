@@ -1,0 +1,5 @@
+Cars pack by Mr.TnT.
+
+rename this folder from M1114 Up-Armored Humvee > -TO- > uparmorhmvdes
+
+add: start uparmorhmvdes to your server.cfg

@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponInfoBlob>
+  <SlotNavigateOrder>
+    <Item />
+    <Item />
+  </SlotNavigateOrder>
+  <SlotBestOrder />
+  <AimingInfos />
+  <Infos>
+     <Item>
+       <Infos>
+       <Item type="CAmmoProjectileInfo">
+          <Name>AMMO_GRENADE</Name>
+          <Model>w_lr_40mm</Model>
+          <Audio />
+          <Slot />
+          <AmmoMax value="250" />
+          <AmmoMax50 value="1000" />
+          <AmmoMax100 value="9999" />
+          <AmmoMaxMP value="250" />
+          <AmmoMax50MP value="1000" />
+          <AmmoMax100MP value="9999" />
+          <AmmoFlags>AddSmokeOnExplosion</AmmoFlags>
+          <Damage value="150.000000" />
+          <LifeTime value="-1.000000" />
+          <FromVehicleLifeTime value="-1.000000" />
+          <LifeTimeAfterImpact value="0.000000" />
+          <LifeTimeAfterExplosion value="0.000000" />
+          <ExplosionTime value="0.000000" />
+          <LaunchSpeed value="65.000000" />
+          <SeparationTime value="0.000000" />
+          <TimeToReachTarget value="2.000000" />
+          <Damping value="0.000000" />
+          <GravityFactor value="1.300000" />
+          <RicochetTolerance value="0.000000" />
+          <PedRicochetTolerance value="0.000000" />
+          <VehicleRicochetTolerance value="0.000000" />
+          <FrictionMultiplier value="1.000000" />
+          <Explosion>
+            <Default>GRENADELAUNCHER</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FuseFx />
+          <TrailFx>proj_grenade_smoke</TrailFx>
+          <TrailFxUnderWater />
+          <FuseFxFP />
+          <PrimedFxFP />
+          <TrailFxFadeInTime value="0.000000" />
+          <TrailFxFadeOutTime value="0.000000" />
+          <PrimedFx />
+          <DisturbFxDefault />
+          <DisturbFxSand />
+          <DisturbFxWater />
+          <DisturbFxDirt />
+          <DisturbFxFoliage />
+          <DisturbFxProbeDist value="0.000000" />
+          <DisturbFxScale value="0.000000" />
+          <LightOnlyActiveWhenStuck value="false" />
+          <LightFlickers value="false" />
+          <LightSpeedsUp value="false" />
+          <LightBone />
+          <LightColour x="0.000000" y="0.000000" z="0.000000" />
+          <LightIntensity value="0.000000" />
+          <LightRange value="0.000000" />
+          <LightFalloffExp value="0.000000" />
+          <LightFrequency value="0.000000" />
+          <LightPower value="0.000000" />
+          <CoronaSize value="0.000000" />
+          <CoronaIntensity value="0.000000" />
+          <CoronaZBias value="0.000000" />
+          <ProjectileFlags>DestroyOnImpact ProcessImpacts</ProjectileFlags>
+        </Item>
+        <Item type="CAmmoProjectileInfo">
+          <Name>AMMO_SMOKE</Name>
+          <Model>w_lr_40mm</Model>
+          <Audio />
+          <Slot />
+          <AmmoMax value="20" />
+          <AmmoMax50 value="20" />
+          <AmmoMax100 value="20" />
+          <AmmoMaxMP value="20" />
+          <AmmoMax50MP value="20" />
+          <AmmoMax100MP value="20" />
+          <AmmoFlags>AddSmokeOnExplosion</AmmoFlags>
+          <Damage value="0.000000" />
+          <LifeTime value="0.000000" />
+          <FromVehicleLifeTime value="0.000000" />
+          <LifeTimeAfterImpact value="0.000000" />
+          <LifeTimeAfterExplosion value="0.000000" />
+          <ExplosionTime value="0.000000" />
+          <LaunchSpeed value="1.000000" />
+          <SeparationTime value="0.000000" />
+          <TimeToReachTarget value="0.010000" />
+          <Damping value="0.000000" />
+          <GravityFactor value="1.000000" />
+          <RicochetTolerance value="0.000000" />
+          <PedRicochetTolerance value="0.000000" />
+          <VehicleRicochetTolerance value="0.000000" />
+          <Explosion>
+            <Default>SMOKEGRENADELAUNCHER</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FuseFx />
+          <TrailFx>proj_grenade_trail</TrailFx>
+          <TrailFxUnderWater />
+          <TrailFxFadeInTime value="0.000000" />
+          <TrailFxFadeOutTime value="0.000000" />
+          <PrimedFx />
+          <DisturbFxDefault />
+          <DisturbFxSand />
+          <DisturbFxWater />
+          <DisturbFxDirt />
+          <DisturbFxFoliage />
+          <DisturbFxProbeDist value="0.000000" />
+          <DisturbFxScale value="0.000000" />
+          <LightOnlyActiveWhenStuck value="false" />
+          <LightFlickers value="false" />
+          <LightBone />
+          <LightColour x="0.000000" y="0.000000" z="0.000000" />
+          <LightIntensity value="0.000000" />
+          <LightRange value="0.000000" />
+          <LightFalloffExp value="0.000000" />
+          <LightFrequency value="0.000000" />
+          <LightPower value="0.000000" />
+          <CoronaSize value="0.000000" />
+          <CoronaIntensity value="0.000000" />
+          <CoronaZBias value="0.000000" />
+          <ProjectileFlags>ProcessImpacts</ProjectileFlags>
+        </Item>
+          <Item type="CAmmoProjectileInfo">
+          <Name>AMMO_SUPER_TANK</Name>
+          <Model>w_lr_rpg_rocket</Model>
+          <Audio />
+          <Slot />
+          <AmmoMax value="400" />
+          <AmmoMax50 value="400" />
+          <AmmoMax100 value="400" />
+          <AmmoMaxMP value="100" />
+          <AmmoMax50MP value="100" />
+          <AmmoMax100MP value="100" />
+          <AmmoFlags>AddSmokeOnExplosion</AmmoFlags>
+          <Damage value="400000.000000" />
+          <LifeTime value="10.000000" />
+          <FromVehicleLifeTime value="0.000000" />
+          <LifeTimeAfterImpact value="-200.000000" />
+          <LifeTimeAfterExplosion value="-200.000000" />
+          <ExplosionTime value="0.000000" />
+          <LaunchSpeed value="4000.000000" />
+          <SeparationTime value="0.000000" />
+          <TimeToReachTarget value="5.000000" />
+          <Damping value="0.000000" />
+          <GravityFactor value="0.000000" />
+          <RicochetTolerance value="0.000000" />
+          <PedRicochetTolerance value="0.000000" />
+          <VehicleRicochetTolerance value="0.000000" />
+          <Explosion>
+            <Default>TANKSHELL</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FuseFx />
+          <TrailFx>proj_tank_trail</TrailFx>
+          <TrailFxUnderWater />
+          <TrailFxFadeInTime value="0.000000" />
+          <TrailFxFadeOutTime value="0.000000" />
+          <PrimedFx />
+          <DisturbFxDefault />
+          <DisturbFxSand />
+          <DisturbFxWater />
+          <DisturbFxDirt />
+          <DisturbFxFoliage />
+          <DisturbFxProbeDist value="0.000000" />
+          <DisturbFxScale value="0.000000" />
+          <LightOnlyActiveWhenStuck value="false" />
+          <LightFlickers value="false" />
+          <LightBone />
+          <LightColour x="100.000000" y="100.000000" z="50.000000" />
+          <LightIntensity value="0.001000" />
+          <LightRange value="20.000000" />
+          <LightFalloffExp value="0.000000" />
+          <LightFrequency value="0.000000" />
+          <LightPower value="0.000000" />
+          <CoronaSize value="0.000000" />
+          <CoronaIntensity value="0.000000" />
+          <CoronaZBias value="0.000000" />
+          <ProjectileFlags>DestroyOnImpact ProcessImpacts</ProjectileFlags>
+        </Item>
+          <Item type="CAmmoProjectileInfo">
+          <Name>AMMO_MEDIUN_TANK</Name>
+          <Model>w_lr_rpg_rocket</Model>
+          <Audio />
+          <Slot />
+          <AmmoMax value="400" />
+          <AmmoMax50 value="400" />
+          <AmmoMax100 value="400" />
+          <AmmoMaxMP value="100" />
+          <AmmoMax50MP value="100" />
+          <AmmoMax100MP value="100" />
+          <AmmoFlags>AddSmokeOnExplosion</AmmoFlags>
+          <Damage value="400000.000000" />
+          <LifeTime value="10.000000" />
+          <FromVehicleLifeTime value="0.000000" />
+          <LifeTimeAfterImpact value="-200.000000" />
+          <LifeTimeAfterExplosion value="-200.000000" />
+          <ExplosionTime value="0.000000" />
+          <LaunchSpeed value="4000.000000" />
+          <SeparationTime value="0.000000" />
+          <TimeToReachTarget value="5.000000" />
+          <Damping value="0.000000" />
+          <GravityFactor value="0.000000" />
+          <RicochetTolerance value="0.000000" />
+          <PedRicochetTolerance value="0.000000" />
+          <VehicleRicochetTolerance value="0.000000" />
+          <Explosion>
+            <Default>TANKSHELL</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FuseFx />
+          <TrailFx>proj_tank_trail</TrailFx>
+          <TrailFxUnderWater />
+          <TrailFxFadeInTime value="0.000000" />
+          <TrailFxFadeOutTime value="0.000000" />
+          <PrimedFx />
+          <DisturbFxDefault />
+          <DisturbFxSand />
+          <DisturbFxWater />
+          <DisturbFxDirt />
+          <DisturbFxFoliage />
+          <DisturbFxProbeDist value="0.000000" />
+          <DisturbFxScale value="0.000000" />
+          <LightOnlyActiveWhenStuck value="false" />
+          <LightFlickers value="false" />
+          <LightBone />
+          <LightColour x="100.000000" y="100.000000" z="50.000000" />
+          <LightIntensity value="0.001000" />
+          <LightRange value="20.000000" />
+          <LightFalloffExp value="0.000000" />
+          <LightFrequency value="0.000000" />
+          <LightPower value="0.000000" />
+          <CoronaSize value="0.000000" />
+          <CoronaIntensity value="0.000000" />
+          <CoronaZBias value="0.000000" />
+          <ProjectileFlags>DestroyOnImpact ProcessImpacts</ProjectileFlags>
+        </Item>
+          <Item type="CAmmoProjectileInfo">
+          <Name>AMMO_TANK</Name>
+          <Model>w_lr_rpg_rocket</Model>
+          <Audio />
+          <Slot />
+          <AmmoMax value="400" />
+          <AmmoMax50 value="400" />
+          <AmmoMax100 value="400" />
+          <AmmoMaxMP value="100" />
+          <AmmoMax50MP value="100" />
+          <AmmoMax100MP value="100" />
+          <AmmoFlags />
+          <Damage value="8000.000000" />
+          <LifeTime value="7.000000" />
+          <FromVehicleLifeTime value="0.000000" />
+          <LifeTimeAfterImpact value="0.000000" />
+          <LifeTimeAfterExplosion value="0.000000" />
+          <ExplosionTime value="0.000000" />
+          <LaunchSpeed value="400.000000" />
+          <SeparationTime value="0.000000" />
+          <TimeToReachTarget value="5.000000" />
+          <Damping value="0.000000" />
+          <GravityFactor value="0.000000" />
+          <RicochetTolerance value="0.000000" />
+          <PedRicochetTolerance value="0.000000" />
+          <VehicleRicochetTolerance value="0.000000" />
+          <Explosion>
+            <Default>TANKSHELL</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FuseFx />
+          <TrailFx>proj_tank_trail</TrailFx>
+          <TrailFxUnderWater />
+          <TrailFxFadeInTime value="0.000000" />
+          <TrailFxFadeOutTime value="0.000000" />
+          <PrimedFx />
+          <DisturbFxDefault />
+          <DisturbFxSand />
+          <DisturbFxWater />
+          <DisturbFxDirt />
+          <DisturbFxFoliage />
+          <DisturbFxProbeDist value="0.000000" />
+          <DisturbFxScale value="0.000000" />
+          <LightOnlyActiveWhenStuck value="false" />
+          <LightFlickers value="false" />
+          <LightBone />
+          <LightColour x="100.000000" y="100.000000" z="50.000000" />
+          <LightIntensity value="0.001000" />
+          <LightRange value="20.000000" />
+          <LightFalloffExp value="0.000000" />
+          <LightFrequency value="0.000000" />
+          <LightPower value="0.000000" />
+          <CoronaSize value="0.000000" />
+          <CoronaIntensity value="0.000000" />
+          <CoronaZBias value="0.000000" />
+          <ProjectileFlags>DestroyOnImpact ProcessImpacts</ProjectileFlags>
+        </Item>
+      </Infos>
+        </Item>
+        <Item />
+        <Item>
+      <Infos>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_GRENADELAUNCHER</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_PISTOL50</Audio>
+          <Slot />
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>PROJECTILE</FireType>
+          <WheelSlot>WHEEL_SMG</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_GRENADE" />
+          <AimingInfo ref="MG_LOW_BASE_STRAFE" />
+          <ClipSize value="48" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="3.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="30.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="100.000000" />
+          <ForceHitPed value="100.000000" />
+          <ForceHitVehicle value="2000.000000" />
+          <ForceHitFlyingHeli value="6000.00000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="0.000000" />
+          <FragImpulse value="600.000000" />
+          <Penetration value="0.000000" />
+          <VerticalLaunchAdjustment value="-1.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="2000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="-1.000000" />
+          <ReloadTimeSP value="-1.000000" />
+          <VehicleReloadTime value="-1.000000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="0.454000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.000000" />
+          <BulletBendingZoomedRadius value="0.000000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_VEHICLE_MG</EffectGroup>
+            <FlashFx>muz_buzzard</FlashFx>
+            <FlashFxAlt />
+            <ShellFx />
+            <TracerFx />
+            <PedDamageHash>BulletLarge</PedDamageHash>
+            <TracerFxChanceSP value="0.000000" />
+            <TracerFxChanceMP value="0.000000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="2.000000" />
+          </Fx>
+          <InitialRumbleDuration value="300" />
+          <InitialRumbleIntensity value="1.000000" />
+          <InitialRumbleIntensityTrigger value="0.950000" />
+          <RumbleDuration value="120" />
+          <RumbleIntensity value="0.100000" />
+          <RumbleIntensityTrigger value="0.850000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.500000" />
+          <LockOnRange value="0.000000" />
+          <WeaponRange value="150.000000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="200.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="100.000000" />
+          <DamageFallOffRangeMax value="200.000000" />
+          <DamageFallOffModifier value="1.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TURRET_INSURGENT</VehicleWeaponHash>
+          <DefaultCameraHash>INSURGENT_TURRET_CAMERA</DefaultCameraHash>
+          <AimCameraHash>INSURGENT_TURRET_AIM_CAMERA</AimCameraHash>
+          <FireCameraHash>INSURGENT_TURRET_FIRE_CAMERA</FireCameraHash>
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <AssistedAimingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <AssistedAlternativeOrScopedCameraHash />
+          <CameraFov value="35.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>MG_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_MG_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash>DEFAULT_THIRD_PERSON_ACCURACY_OFFSET_SHAKE</AccuracyOffsetShakeHash>
+          <MinTimeBetweenRecoilShakes value="100" />
+          <RecoilShakeAmplitude value="0.200000" />
+          <ExplosionShakeAmplitude value="-1.000000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.285000" y="0.175000" z="0.275000" />
+          <AimProbeLengthMin value="0.525000" />
+          <AimOffsetMax x="0.225000" y="-0.050000" z="0.400000" />
+          <AimProbeLengthMax value="0.415000" />
+          <TorsoAimOffset x="-0.900000" y="0.550000" />
+          <TorsoCrouchedAimOffset x="0.100000" y="0.120000" />
+          <LeftHandIkOffset x="0.015000" y="0.095000" z="-0.008000" />
+          <ReticuleMinSizeStanding value="0.600000" />
+          <ReticuleMinSizeCrouched value="0.500000" />
+          <ReticuleScale value="0.300000" />
+          <ReticuleStyleHash>WEAPONTYPE_RIFLE</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_PLANEMSL</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>ROCKET</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Gun UsableOnFoot Launched Turret StaticReticulePosition Vehicle</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="DEFAULT" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <HudDamage value="30" />
+          <HudSpeed value="60" />
+          <HudCapacity value="50" />
+          <HudAccuracy value="40" />
+          <HudRange value="60" />
+        </Item>
+          <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_SMOKE_SCREEN</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_GRENADELAUNCHER</Audio>
+          <Slot>SLOT_GRENADELAUNCHER</Slot>
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>PROJECTILE</FireType>
+          <WheelSlot>WHEEL_HEAVY</WheelSlot>
+          <Group>GROUP_HEAVY</Group>
+          <AmmoInfo ref="AMMO_SMOKE" />
+          <AimingInfo ref="MG_LOW_BASE_STRAFE" />
+          <ClipSize value="48" />
+          <AccuracySpread value="4.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="3.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="30.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="100.000000" />
+          <ForceHitPed value="100.000000" />
+          <ForceHitVehicle value="2000.000000" />
+          <ForceHitFlyingHeli value="6000.00000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="0.000000" />
+          <FragImpulse value="1200.000000" />
+          <Penetration value="0.000000" />
+          <VerticalLaunchAdjustment value="-1.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="2000.000000" />
+          <BulletsInBatch value="2" />
+          <BatchSpread value="7.000000" />
+          <ReloadTimeMP value="7.000000" />
+          <ReloadTimeSP value="7.000000" />
+          <VehicleReloadTime value="7.000000" />
+          <AnimReloadRate value="7.000000" />
+          <BulletsPerAnimLoop value="8" />
+          <TimeBetweenShots value="7.294000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.000000" />
+          <BulletBendingZoomedRadius value="0.000000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_GRENADE</EffectGroup>
+            <FlashFx />
+            <FlashFxAlt />
+            <ShellFx />
+            <TracerFx />
+            <PedDamageHash>BulletLarge</PedDamageHash>
+            <TracerFxChanceSP value="0.000000" />
+            <TracerFxChanceMP value="0.000000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="8.000000" />
+          </Fx>
+          <InitialRumbleDuration value="300" />
+          <InitialRumbleIntensity value="1.000000" />
+          <InitialRumbleIntensityTrigger value="0.950000" />
+          <RumbleDuration value="120" />
+          <RumbleIntensity value="0.100000" />
+          <RumbleIntensityTrigger value="0.850000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.500000" />
+          <LockOnRange value="0.000000" />
+          <WeaponRange value="0.100000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="200.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="100.000000" />
+          <DamageFallOffRangeMax value="200.000000" />
+          <DamageFallOffModifier value="1.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TURRET_INSURGENT</VehicleWeaponHash>
+          <DefaultCameraHash>INSURGENT_TURRET_CAMERA</DefaultCameraHash>
+          <AimCameraHash>INSURGENT_TURRET_AIM_CAMERA</AimCameraHash>
+          <FireCameraHash>INSURGENT_TURRET_FIRE_CAMERA</FireCameraHash>
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <AssistedAimingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <AssistedAlternativeOrScopedCameraHash />
+          <CameraFov value="35.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>MG_RECOIL_SHAKE</RecoilShakeHash>
+	  <RecoilShakeHashFirstPerson>FPS_MG_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash>DEFAULT_THIRD_PERSON_ACCURACY_OFFSET_SHAKE</AccuracyOffsetShakeHash>
+          <MinTimeBetweenRecoilShakes value="100" />
+          <RecoilShakeAmplitude value="0.200000" />
+          <ExplosionShakeAmplitude value="-1.000000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.285000" y="0.175000" z="0.275000" />
+          <AimProbeLengthMin value="0.525000" />
+          <AimOffsetMax x="0.225000" y="-0.050000" z="0.400000" />
+          <AimProbeLengthMax value="0.415000" />
+          <TorsoAimOffset x="-0.900000" y="0.550000" />
+          <TorsoCrouchedAimOffset x="0.100000" y="0.120000" />
+          <LeftHandIkOffset x="0.015000" y="0.095000" z="-0.008000" />
+          <ReticuleMinSizeStanding value="0.600000" />
+          <ReticuleMinSizeCrouched value="0.500000" />
+          <ReticuleScale value="0.300000" />
+          <ReticuleStyleHash>WEAPONTYPE_RIFLE</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_PLANEMSL</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>ROCKET</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Gun UsableOnFoot Turret StaticReticulePosition Vehicle</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="DEFAULT" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <HudDamage value="30" />
+          <HudSpeed value="60" />
+          <HudCapacity value="50" />
+          <HudAccuracy value="40" />
+          <HudRange value="60" />
+        </Item>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_WAR_ROCKET</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_VEHICLE_SPACE_ROCKET</Audio>
+          <Slot />
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>PROJECTILE</FireType>
+          <WheelSlot>WHEEL_PISTOL</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_HOMINGLAUNCHER" />
+          <AimingInfo ref="HOMING_RPG" />
+          <ClipSize value="1" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RunAndGunAccuracyMinOverride value="-1.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="0.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="0.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="0.000000" />
+          <ForceHitPed value="0.000000" />
+          <ForceHitVehicle value="0.000000" />
+          <ForceHitFlyingHeli value="0.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="20.000000" />
+          <FragImpulse value="10.000000" />
+          <Penetration value="200.000000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="8000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="1.200000" />
+          <ReloadTimeSP value="1.200000" />
+          <VehicleReloadTime value="1.200000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="2.000000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.000000" />
+          <BulletBendingZoomedRadius value="0.000000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_ROCKET</EffectGroup>
+            <FlashFx>muz_tank</FlashFx>
+            <FlashFxAlt />
+            <MuzzleSmokeFx>muz_smoking_barrel_rocket</MuzzleSmokeFx>
+            <MuzzleSmokeFxMinLevel value="0.300000" />
+            <MuzzleSmokeFxIncPerShot value="0.050000" />
+            <MuzzleSmokeFxDecPerSec value="0.050000" />
+            <ShellFx />
+            <TracerFx />
+            <PedDamageHash />
+            <TracerFxChanceSP value="0.000000" />
+            <TracerFxChanceMP value="0.000000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="1.000000" />
+            <FlashFxLightEnabled value="true" />
+            <FlashFxLightCastsShadows value="false" />
+            <FlashFxLightOffsetDist value="0.000000" />
+            <FlashFxLightRGBAMin x="255.000000" y="93.000000" z="25.000000" />
+            <FlashFxLightRGBAMax x="255.000000" y="136.000000" z="50.000000" />
+            <FlashFxLightIntensityMinMax x="1.40000000" y="1.80000000" />
+            <FlashFxLightRangeMinMax x="2.300000" y="2.700000" />
+            <FlashFxLightFalloffMinMax x="700.000000" y="900.000000" />
+            <GroundDisturbFxEnabled value="true" />
+            <GroundDisturbFxDist value="8.000000" />
+            <GroundDisturbFxNameDefault>weap_veh_turbulance_default</GroundDisturbFxNameDefault>
+            <GroundDisturbFxNameSand>weap_veh_turbulance_sand</GroundDisturbFxNameSand>
+            <GroundDisturbFxNameDirt>weap_veh_turbulance_dirt</GroundDisturbFxNameDirt>
+            <GroundDisturbFxNameWater>weap_veh_turbulance_water</GroundDisturbFxNameWater>
+            <GroundDisturbFxNameFoliage>weap_veh_turbulance_dirt</GroundDisturbFxNameFoliage>
+          </Fx>
+          <InitialRumbleDuration value="0" />
+          <InitialRumbleIntensity value="0.000000" />
+          <InitialRumbleIntensityTrigger value="0.000000" />
+          <RumbleDuration value="200" />
+          <RumbleIntensity value="0.350000" />
+          <RumbleIntensityTrigger value="0.000000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.000000" />
+          <LockOnRange value="0.000000" />
+          <WeaponRange value="240.000000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="200.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="0.000000" />
+          <DamageFallOffRangeMax value="0.000000" />
+          <DamageFallOffModifier value="0.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_SPACE_ROCKET</VehicleWeaponHash>
+          <DefaultCameraHash />
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <RunAndGunCameraHash />
+          <CinematicShootingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <RunAndGunAlternativeOrScopedCameraHash />
+          <CinematicShootingAlternativeOrScopedCameraHash />
+          <CameraFov value="45.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>TANK_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_TANK_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash />
+          <MinTimeBetweenRecoilShakes value="150" />
+          <RecoilShakeAmplitude value="1.000000" />
+          <ExplosionShakeAmplitude value="-1.000000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMin value="0.000000" />
+          <AimOffsetMax x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMax value="0.000000" />
+          <TorsoAimOffset x="0.000000" y="0.000000" />
+          <TorsoCrouchedAimOffset x="0.000000" y="0.000000" />
+          <LeftHandIkOffset x="0.000000" y="0.000000" z="0.000000" />
+          <ReticuleMinSizeStanding value="1.000000" />
+          <ReticuleMinSizeCrouched value="1.000000" />
+          <ReticuleScale value="1.000000" />
+          <ReticuleStyleHash>VULCAN_ROCKET</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash>VULKAN_ROCKET_COCKPIT_VIEW</FirstPersonReticuleStyleHash>
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_PLANEMSL</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>ROCKET</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Vehicle StaticReticulePosition EnforceFiringAngularThreshold </WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="default" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <AudioCollisionHash />
+          <HudDamage value="0" />
+          <HudSpeed value="0" />
+          <HudCapacity value="1" />
+          <HudAccuracy value="10" />
+          <HudRange value="65" />
+        </Item>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_WAR_TANK</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_VEHICLE_TANK</Audio>
+          <Slot />
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>PROJECTILE</FireType>
+          <WheelSlot>WHEEL_PISTOL</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_TANK" />
+          <AimingInfo ref="NULL" />
+          <ClipSize value="1" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RunAndGunAccuracyMinOverride value="-1.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="0.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="8000.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="0.000000" />
+          <ForceHitPed value="0.000000" />
+          <ForceHitVehicle value="0.000000" />
+          <ForceHitFlyingHeli value="0.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="20.000000" />
+          <FragImpulse value="0.000000" />
+          <Penetration value="0.000000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="8000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="1.500000" />
+          <ReloadTimeSP value="1.500000" />
+          <VehicleReloadTime value="1.500000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="2.000000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.000000" />
+          <BulletBendingZoomedRadius value="0.000000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_ROCKET</EffectGroup>
+            <FlashFx>muz_tank</FlashFx>
+            <FlashFxAlt />
+            <MuzzleSmokeFx>muz_smoking_barrel_rocket</MuzzleSmokeFx>
+            <MuzzleSmokeFxMinLevel value="0.300000" />
+            <MuzzleSmokeFxIncPerShot value="0.050000" />
+            <MuzzleSmokeFxDecPerSec value="0.050000" />
+            <ShellFx />
+            <TracerFx />
+            <PedDamageHash />
+            <TracerFxChanceSP value="0.000000" />
+            <TracerFxChanceMP value="0.000000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="1.000000" />
+            <FlashFxLightEnabled value="true" />
+            <FlashFxLightCastsShadows value="false" />
+            <FlashFxLightOffsetDist value="0.000000" />
+            <FlashFxLightRGBAMin x="255.000000" y="93.000000" z="25.000000" />
+            <FlashFxLightRGBAMax x="255.000000" y="136.000000" z="50.000000" />
+            <FlashFxLightIntensityMinMax x="1.40000000" y="1.80000000" />
+            <FlashFxLightRangeMinMax x="2.300000" y="2.700000" />
+            <FlashFxLightFalloffMinMax x="700.000000" y="900.000000" />
+            <GroundDisturbFxEnabled value="true" />
+            <GroundDisturbFxDist value="8.000000" />
+            <GroundDisturbFxNameDefault>weap_veh_turbulance_default</GroundDisturbFxNameDefault>
+            <GroundDisturbFxNameSand>weap_veh_turbulance_sand</GroundDisturbFxNameSand>
+            <GroundDisturbFxNameDirt>weap_veh_turbulance_dirt</GroundDisturbFxNameDirt>
+            <GroundDisturbFxNameWater>weap_veh_turbulance_water</GroundDisturbFxNameWater>
+            <GroundDisturbFxNameFoliage>weap_veh_turbulance_dirt</GroundDisturbFxNameFoliage>
+          </Fx>
+          <InitialRumbleDuration value="0" />
+          <InitialRumbleIntensity value="0.000000" />
+          <InitialRumbleIntensityTrigger value="0.000000" />
+          <RumbleDuration value="200" />
+          <RumbleIntensity value="0.350000" />
+          <RumbleIntensityTrigger value="0.000000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.000000" />
+          <LockOnRange value="0.000000" />
+          <WeaponRange value="120.000000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="200.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="0.000000" />
+          <DamageFallOffRangeMax value="0.000000" />
+          <DamageFallOffModifier value="0.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TANK</VehicleWeaponHash>
+          <DefaultCameraHash />
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <RunAndGunCameraHash />
+          <CinematicShootingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <RunAndGunAlternativeOrScopedCameraHash />
+          <CinematicShootingAlternativeOrScopedCameraHash />
+          <CameraFov value="45.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>TANK_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_TANK_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash />
+          <MinTimeBetweenRecoilShakes value="150" />
+          <RecoilShakeAmplitude value="1.000000" />
+          <ExplosionShakeAmplitude value="-1.000000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMin value="0.000000" />
+          <AimOffsetMax x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMax value="0.000000" />
+          <TorsoAimOffset x="0.000000" y="0.000000" />
+          <TorsoCrouchedAimOffset x="0.000000" y="0.000000" />
+          <LeftHandIkOffset x="0.000000" y="0.000000" z="0.000000" />
+          <ReticuleMinSizeStanding value="1.000000" />
+          <ReticuleMinSizeCrouched value="1.000000" />
+          <ReticuleScale value="1.000000" />
+          <ReticuleStyleHash>WEAPON_TANK</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_TANK</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>ROCKET</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Vehicle StaticReticulePosition EnforceFiringAngularThreshold</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="default" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <AudioCollisionHash />
+          <HudDamage value="0" />
+          <HudSpeed value="0" />
+          <HudCapacity value="1" />
+          <HudAccuracy value="10" />
+          <HudRange value="55" />
+        </Item>	
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_WAR_TANK_CANNON</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_VEHICLE_TANK</Audio>
+          <Slot />
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>PROJECTILE</FireType>
+          <WheelSlot>WHEEL_PISTOL</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_MEDIUN_TANK" />
+          <AimingInfo ref="NULL" />
+          <ClipSize value="1" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RunAndGunAccuracyMinOverride value="-1.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="0.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="4000.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="0.000000" />
+          <ForceHitPed value="0.000000" />
+          <ForceHitVehicle value="0.000000" />
+          <ForceHitFlyingHeli value="0.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="0.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="5000.000000" />
+          <FragImpulse value="100.000000" />
+          <Penetration value="500.000000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="60000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="2.000000" />
+          <ReloadTimeSP value="2.000000" />
+          <VehicleReloadTime value="2.000000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="2.000000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.000000" />
+          <BulletBendingZoomedRadius value="0.000000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_ROCKET</EffectGroup>
+            <FlashFx>muz_tank</FlashFx>
+            <FlashFxAlt />
+            <MuzzleSmokeFx>muz_smoking_barrel_rocket</MuzzleSmokeFx>
+            <MuzzleSmokeFxMinLevel value="0.300000" />
+            <MuzzleSmokeFxIncPerShot value="0.050000" />
+            <MuzzleSmokeFxDecPerSec value="0.050000" />
+            <ShellFx>eject_mounted_turret</ShellFx>
+            <TracerFx>bullet_tracer_jet</TracerFx>
+            <PedDamageHash>BulletLarge</PedDamageHash>
+            <TracerFxChanceSP value="0.000000" />
+            <TracerFxChanceMP value="0.000000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="1.000000" />
+            <FlashFxLightEnabled value="true" />
+            <FlashFxLightCastsShadows value="false" />
+            <FlashFxLightOffsetDist value="0.000000" />
+            <FlashFxLightRGBAMin x="255.000000" y="93.000000" z="25.000000" />
+            <FlashFxLightRGBAMax x="255.000000" y="136.000000" z="50.000000" />
+            <FlashFxLightIntensityMinMax x="1.40000000" y="1.80000000" />
+            <FlashFxLightRangeMinMax x="2.300000" y="2.700000" />
+            <FlashFxLightFalloffMinMax x="700.000000" y="900.000000" />
+            <GroundDisturbFxEnabled value="true" />
+            <GroundDisturbFxDist value="8.000000" />
+            <GroundDisturbFxNameDefault>weap_veh_turbulance_default</GroundDisturbFxNameDefault>
+            <GroundDisturbFxNameSand>weap_veh_turbulance_sand</GroundDisturbFxNameSand>
+            <GroundDisturbFxNameDirt>weap_veh_turbulance_dirt</GroundDisturbFxNameDirt>
+            <GroundDisturbFxNameWater>weap_veh_turbulance_water</GroundDisturbFxNameWater>
+            <GroundDisturbFxNameFoliage>weap_veh_turbulance_dirt</GroundDisturbFxNameFoliage>
+          </Fx>
+          <InitialRumbleDuration value="0" />
+          <InitialRumbleIntensity value="0.000000" />
+          <InitialRumbleIntensityTrigger value="0.000000" />
+          <RumbleDuration value="200" />
+          <RumbleIntensity value="0.350000" />
+          <RumbleIntensityTrigger value="0.000000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.000000" />
+          <LockOnRange value="0.000000" />
+          <WeaponRange value="500.000000" />
+          <BulletDirectionOffsetInDegrees value="0.500000" />
+          <AiSoundRange value="260.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="0.000000" />
+          <DamageFallOffRangeMax value="0.000000" />
+          <DamageFallOffModifier value="0.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TANK</VehicleWeaponHash>
+          <DefaultCameraHash />
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <RunAndGunCameraHash />
+          <CinematicShootingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <RunAndGunAlternativeOrScopedCameraHash />
+          <CinematicShootingAlternativeOrScopedCameraHash />
+          <CameraFov value="45.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>TANK_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_TANK_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash />
+          <MinTimeBetweenRecoilShakes value="150" />
+          <RecoilShakeAmplitude value="1.000000" />
+          <ExplosionShakeAmplitude value="-0.200000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMin value="0.000000" />
+          <AimOffsetMax x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMax value="0.000000" />
+          <TorsoAimOffset x="0.000000" y="0.000000" />
+          <TorsoCrouchedAimOffset x="0.000000" y="0.000000" />
+          <LeftHandIkOffset x="0.000000" y="0.000000" z="0.000000" />
+          <ReticuleMinSizeStanding value="1.000000" />
+          <ReticuleMinSizeCrouched value="1.000000" />
+          <ReticuleScale value="3.000000" />
+          <ReticuleStyleHash>WEAPON_VULKAN_GUNS</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_TANK</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>ROCKET</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Vehicle StaticReticulePosition EnforceFiringAngularThreshold</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="default" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <AudioCollisionHash />
+          <HudDamage value="0" />
+          <HudSpeed value="0" />
+          <HudCapacity value="1" />
+          <HudAccuracy value="10" />
+          <HudRange value="55" />
+        </Item>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_TANK_SUPER_CANNON</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_VEHICLE_TANK</Audio>
+          <Slot />
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>PROJECTILE</FireType>
+          <WheelSlot>WHEEL_PISTOL</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_SUPER_TANK" />
+          <AimingInfo ref="NULL" />
+          <ClipSize value="1" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RunAndGunAccuracyMinOverride value="-1.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="0.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="10.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="4000.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="0.000000" />
+          <ForceHitPed value="0.000000" />
+          <ForceHitVehicle value="0.000000" />
+          <ForceHitFlyingHeli value="0.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="0.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="500.000000" />
+          <FragImpulse value="100.000000" />
+          <Penetration value="500.000000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="90000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="2.000000" />
+          <ReloadTimeSP value="2.000000" />
+          <VehicleReloadTime value="2.000000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="2.000000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.000000" />
+          <BulletBendingZoomedRadius value="0.000000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_ROCKET</EffectGroup>
+            <FlashFx>muz_tank</FlashFx>
+            <FlashFxAlt />
+            <MuzzleSmokeFx>muz_smoking_barrel_rocket</MuzzleSmokeFx>
+            <MuzzleSmokeFxMinLevel value="0.300000" />
+            <MuzzleSmokeFxIncPerShot value="0.050000" />
+            <MuzzleSmokeFxDecPerSec value="0.050000" />
+            <ShellFx>eject_mounted_turret</ShellFx>
+            <TracerFx>bullet_tracer_jet</TracerFx>
+            <PedDamageHash />
+            <TracerFxChanceSP value="0.000000" />
+            <TracerFxChanceMP value="0.000000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="1.000000" />
+            <FlashFxLightEnabled value="true" />
+            <FlashFxLightCastsShadows value="false" />
+            <FlashFxLightOffsetDist value="0.000000" />
+            <FlashFxLightRGBAMin x="255.000000" y="93.000000" z="25.000000" />
+            <FlashFxLightRGBAMax x="255.000000" y="136.000000" z="50.000000" />
+            <FlashFxLightIntensityMinMax x="1.40000000" y="1.80000000" />
+            <FlashFxLightRangeMinMax x="2.300000" y="2.700000" />
+            <FlashFxLightFalloffMinMax x="700.000000" y="900.000000" />
+            <GroundDisturbFxEnabled value="true" />
+            <GroundDisturbFxDist value="20.000000" />
+            <GroundDisturbFxNameDefault>weap_veh_turbulance_default</GroundDisturbFxNameDefault>
+            <GroundDisturbFxNameSand>weap_veh_turbulance_sand</GroundDisturbFxNameSand>
+            <GroundDisturbFxNameDirt>weap_veh_turbulance_dirt</GroundDisturbFxNameDirt>
+            <GroundDisturbFxNameWater>weap_veh_turbulance_water</GroundDisturbFxNameWater>
+            <GroundDisturbFxNameFoliage>weap_veh_turbulance_dirt</GroundDisturbFxNameFoliage>
+          </Fx>
+          <InitialRumbleDuration value="0" />
+          <InitialRumbleIntensity value="0.000000" />
+          <InitialRumbleIntensityTrigger value="0.000000" />
+          <RumbleDuration value="200" />
+          <RumbleIntensity value="0.400000" />
+          <RumbleIntensityTrigger value="0.000000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.000000" />
+          <LockOnRange value="0.000000" />
+          <WeaponRange value="900.000000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="260.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="0.000000" />
+          <DamageFallOffRangeMax value="0.000000" />
+          <DamageFallOffModifier value="0.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TANK</VehicleWeaponHash>
+          <DefaultCameraHash />
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <RunAndGunCameraHash />
+          <CinematicShootingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <RunAndGunAlternativeOrScopedCameraHash />
+          <CinematicShootingAlternativeOrScopedCameraHash />
+          <CameraFov value="45.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>TANK_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_TANK_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash />
+          <MinTimeBetweenRecoilShakes value="150" />
+          <RecoilShakeAmplitude value="1.000000" />
+          <ExplosionShakeAmplitude value="-0.200000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMin value="0.000000" />
+          <AimOffsetMax x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMax value="0.000000" />
+          <TorsoAimOffset x="0.000000" y="0.000000" />
+          <TorsoCrouchedAimOffset x="0.000000" y="0.000000" />
+          <LeftHandIkOffset x="0.000000" y="0.000000" z="0.000000" />
+          <ReticuleMinSizeStanding value="1.000000" />
+          <ReticuleMinSizeCrouched value="1.000000" />
+          <ReticuleScale value="3.000000" />
+          <ReticuleStyleHash>WEAPON_VULKAN_GUNS</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_TANK</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>ROCKET</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Vehicle StaticReticulePosition EnforceFiringAngularThreshold</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="default" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <AudioCollisionHash />
+          <HudDamage value="0" />
+          <HudSpeed value="0" />
+          <HudCapacity value="1" />
+          <HudAccuracy value="10" />
+          <HudRange value="55" />
+        </Item>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_TURRET_WAR</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_ARMORDILLO_TURRET</Audio>
+          <Slot />
+          <DamageType>BULLET</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>INSTANT_HIT</FireType>
+          <WheelSlot>WHEEL_SMG</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_MG" />
+          <AimingInfo ref="MG_LOW_BASE_STRAFE" />
+          <ClipSize value="9999" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="3.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="4000.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="75.000000" />
+          <ForceHitPed value="250.000000" />
+          <ForceHitVehicle value="4500.000000" />
+          <ForceHitFlyingHeli value="5500.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="0.000000" />
+          <FragImpulse value="2000.000000" />
+          <Penetration value="1.100000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="2000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="-1.000000" />
+          <ReloadTimeSP value="-1.000000" />
+          <VehicleReloadTime value="-1.000000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="0.147000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.750000" />
+          <BulletBendingZoomedRadius value="0.375000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_VEHICLE_MG</EffectGroup>
+            <FlashFx>muz_hunter</FlashFx>
+            <FlashFxAlt />
+            <ShellFx>eject_mounted_turret</ShellFx>
+            <TracerFx>bullet_tracer_jet</TracerFx>
+            <PedDamageHash>BulletLarge</PedDamageHash>
+            <TracerFxChanceSP value="0.600000" />
+            <TracerFxChanceMP value="0.800000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="1.500000" />
+          </Fx>
+          <InitialRumbleDuration value="50" />
+          <InitialRumbleIntensity value="1.000000" />
+          <InitialRumbleIntensityTrigger value="0.950000" />
+          <RumbleDuration value="20" />
+          <RumbleIntensity value="1.000000" />
+          <RumbleIntensityTrigger value="0.850000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.500000" />
+          <LockOnRange value="10.000000" />
+          <WeaponRange value="1000.000000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="-1.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="1000.000000" />
+          <DamageFallOffRangeMax value="1000.000000" />
+          <DamageFallOffModifier value="1.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TURRET_INSURGENT</VehicleWeaponHash>
+          <DefaultCameraHash>INSURGENT_TURRET_CAMERA</DefaultCameraHash>
+          <AimCameraHash>INSURGENT_TURRET_AIM_CAMERA</AimCameraHash>
+          <FireCameraHash>INSURGENT_TURRET_FIRE_CAMERA</FireCameraHash>
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <AssistedAimingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <AssistedAlternativeOrScopedCameraHash />
+          <CameraFov value="35.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>MG_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_MG_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash>DEFAULT_THIRD_PERSON_ACCURACY_OFFSET_SHAKE</AccuracyOffsetShakeHash>
+          <MinTimeBetweenRecoilShakes value="100" />
+          <RecoilShakeAmplitude value="0.200000" />
+          <ExplosionShakeAmplitude value="-1.000000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.285000" y="0.175000" z="0.275000" />
+          <AimProbeLengthMin value="0.525000" />
+          <AimOffsetMax x="0.225000" y="-0.050000" z="0.400000" />
+          <AimProbeLengthMax value="0.415000" />
+          <TorsoAimOffset x="-0.900000" y="0.550000" />
+          <TorsoCrouchedAimOffset x="0.100000" y="0.120000" />
+          <LeftHandIkOffset x="0.015000" y="0.095000" z="-0.008000" />
+          <ReticuleMinSizeStanding value="0.600000" />
+          <ReticuleMinSizeCrouched value="0.500000" />
+          <ReticuleScale value="0.300000" />
+          <ReticuleStyleHash>WEAPONTYPE_RIFLE</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash>WEAPON_VULKAN_GUNS</FirstPersonReticuleStyleHash>
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_TURRET</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>TURR</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Gun UsableOnFoot ForceEjectShellAfterFiring Turret StaticReticulePosition ApplyVehicleDamageToEngine Vehicle</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="DEFAULT" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <HudDamage value="30" />
+          <HudSpeed value="60" />
+          <HudCapacity value="50" />
+          <HudAccuracy value="40" />
+          <HudRange value="60" />
+        </Item>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_WAR_NOSE_ANT_AIR</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_VALKYRIE_NOSE</Audio>
+          <Slot />
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>EXP_TAG_VALKYRIE_CANNON</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>INSTANT_HIT</FireType>
+          <WheelSlot>WHEEL_PISTOL</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_MINIGUN" />
+          <AimingInfo ref="HELI_TARGETING_RESTRAINTS" />
+          <ClipSize value="9999" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="3.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="30.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="100.000000" />
+          <ForceHitPed value="100.000000" />
+          <ForceHitVehicle value="2000.000000" />
+          <ForceHitFlyingHeli value="3000.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="0.000000" />
+          <FragImpulse value="1000.000000" />
+          <Penetration value="0.100000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="6000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="-1.000000" />
+          <ReloadTimeSP value="-1.000000" />
+          <VehicleReloadTime value="-1.000000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="0.250000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.750000" />
+          <BulletBendingZoomedRadius value="0.375000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_VEHICLE_MG</EffectGroup>
+            <FlashFx>muz_valkyrie</FlashFx>
+            <FlashFxAlt />
+            <ShellFx>eject_valkyrie</ShellFx>
+            <TracerFx>bullet_tracer_valkyrie</TracerFx>
+            <PedDamageHash>BulletLarge</PedDamageHash>
+            <TracerFxChanceSP value="0.600000" />
+            <TracerFxChanceMP value="0.800000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="1.000000" />
+          </Fx>
+          <InitialRumbleDuration value="90" />
+          <InitialRumbleIntensity value="0.500000" />
+          <RumbleDuration value="90" />
+          <RumbleIntensity value="0.075000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.000000" />
+          <LockOnRange value="1.000000" />
+          <WeaponRange value="500.000000" />
+          <BulletDirectionOffsetInDegrees value="0.500000" />
+          <AiSoundRange value="-1.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="500.000000" />
+          <DamageFallOffRangeMax value="700.000000" />
+          <DamageFallOffModifier value="1.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_PLAYER_BULLET</VehicleWeaponHash>
+          <DefaultCameraHash />
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <AssistedAimingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <AssistedAlternativeOrScopedCameraHash />
+          <CameraFov value="45.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash />
+          <AccuracyOffsetShakeHash />
+          <MinTimeBetweenRecoilShakes value="150" />
+          <RecoilShakeAmplitude value="1.000000" />
+          <ExplosionShakeAmplitude value="0.033300" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMin value="0.000000" />
+          <AimOffsetMax x="0.000000" y="0.000000" z="0.000000" />
+          <AimProbeLengthMax value="0.000000" />
+          <TorsoAimOffset x="0.000000" y="0.000000" />
+          <TorsoCrouchedAimOffset x="0.000000" y="0.000000" />
+          <LeftHandIkOffset x="0.000000" y="0.000000" z="0.000000" />
+          <ReticuleMinSizeStanding value="1.000000" />
+          <ReticuleMinSizeCrouched value="1.000000" />
+          <ReticuleScale value="1.000000" />
+          <ReticuleStyleHash>WEAPONTYPE_RIFLE</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_TANK</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>CANNON</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Gun UsableOnFoot Vehicle ForceEjectShellAfterFiring StaticReticulePosition CreateBulletExplosionWhenOutOfTime CanBlowUpVehicleAtZeroBodyHealth DisableAimAngleChecksForReticule Turret SkipVehiclePetrolTankDamage</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="DEFAULT" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <HudDamage value="30" />
+          <HudSpeed value="98" />
+          <HudCapacity value="100" />
+          <HudAccuracy value="10" />
+          <HudRange value="65" />
+        </Item>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_MG_WIESEL</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_ARMORDILLO_TURRET</Audio>
+          <Slot />
+          <DamageType>BULLET</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>INSTANT_HIT</FireType>
+          <WheelSlot>WHEEL_SMG</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_MG" />
+          <AimingInfo ref="MG_LOW_BASE_STRAFE" />
+          <ClipSize value="750" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="3.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="280.000000" />
+          <DamageTime value="0.000000" />
+          <DamageTimeInVehicle value="0.000000" />
+          <DamageTimeInVehicleHeadShot value="0.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="50.000000" />
+          <ForceHitPed value="190.000000" />
+          <ForceHitVehicle value="3000.000000" />
+          <ForceHitFlyingHeli value="4750.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="0.000000" />
+          <FragImpulse value="2000.000000" />
+          <Penetration value="1.100000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="1000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="-1.000000" />
+          <ReloadTimeSP value="-1.000000" />
+          <VehicleReloadTime value="-1.000000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="0.147000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.750000" />
+          <BulletBendingZoomedRadius value="0.375000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_VEHICLE_MG</EffectGroup>
+            <FlashFx>muz_hunter</FlashFx>
+            <FlashFxAlt />
+            <ShellFx>eject_mounted_turret</ShellFx>
+            <TracerFx>bullet_tracer_jet</TracerFx>
+            <PedDamageHash>BulletLarge</PedDamageHash>
+            <TracerFxChanceSP value="0.600000" />
+            <TracerFxChanceMP value="0.800000" />
+            <FlashFxChanceSP value="1.000000" />
+            <FlashFxChanceMP value="1.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="1.500000" />
+          </Fx>
+          <InitialRumbleDuration value="50" />
+          <InitialRumbleIntensity value="1.000000" />
+          <InitialRumbleIntensityTrigger value="0.950000" />
+          <RumbleDuration value="20" />
+          <RumbleIntensity value="1.000000" />
+          <RumbleIntensityTrigger value="0.850000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.500000" />
+          <LockOnRange value="0.000000" />
+          <WeaponRange value="1000.000000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="-1.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="500.000000" />
+          <DamageFallOffRangeMax value="500.000000" />
+          <DamageFallOffModifier value="1.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TURRET_INSURGENT</VehicleWeaponHash>
+          <DefaultCameraHash>INSURGENT_TURRET_CAMERA</DefaultCameraHash>
+          <AimCameraHash>INSURGENT_TURRET_AIM_CAMERA</AimCameraHash>
+          <FireCameraHash>INSURGENT_TURRET_FIRE_CAMERA</FireCameraHash>
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <AssistedAimingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <AssistedAlternativeOrScopedCameraHash />
+          <CameraFov value="35.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>MG_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_MG_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash>DEFAULT_THIRD_PERSON_ACCURACY_OFFSET_SHAKE</AccuracyOffsetShakeHash>
+          <MinTimeBetweenRecoilShakes value="100" />
+          <RecoilShakeAmplitude value="0.200000" />
+          <ExplosionShakeAmplitude value="-1.000000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.285000" y="0.175000" z="0.275000" />
+          <AimProbeLengthMin value="0.525000" />
+          <AimOffsetMax x="0.225000" y="-0.050000" z="0.400000" />
+          <AimProbeLengthMax value="0.415000" />
+          <TorsoAimOffset x="-0.900000" y="0.550000" />
+          <TorsoCrouchedAimOffset x="0.100000" y="0.120000" />
+          <LeftHandIkOffset x="0.015000" y="0.095000" z="-0.008000" />
+          <ReticuleMinSizeStanding value="0.600000" />
+          <ReticuleMinSizeCrouched value="0.500000" />
+          <ReticuleScale value="0.300000" />
+          <ReticuleStyleHash>WEAPONTYPE_RIFLE</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_TURRET</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>TURR</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Gun UsableOnFoot ForceEjectShellAfterFiring Turret StaticReticulePosition ApplyVehicleDamageToEngine Vehicle</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="DEFAULT" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <HudDamage value="30" />
+          <HudSpeed value="60" />
+          <HudCapacity value="50" />
+          <HudAccuracy value="40" />
+          <HudRange value="60" />
+        </Item>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_TOW_WIESEL</Name>
+          <Model />
+          <Audio>AUDIO_ITEM_VEHICLE_SPACE_ROCKET</Audio>
+          <Slot />
+          <DamageType>EXPLOSIVE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>PROJECTILE</FireType>
+          <WheelSlot>WHEEL_PISTOL</WheelSlot>
+          <Group />
+          <AmmoInfo ref="AMMO_SPACE_ROCKET" />
+          <AimingInfo ref="MG_LOW_BASE_STRAFE" />
+          <ClipSize value="1" />
+          <AccuracySpread value="1.000000" />
+          <AccurateModeAccuracyModifier value="0.500000" />
+          <RunAndGunAccuracyModifier value="2.000000" />
+          <RecoilAccuracyMax value="1.000000" />
+          <RecoilErrorTime value="3.000000" />
+          <RecoilRecoveryRate value="1.000000" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000.000000" />
+          <MinHeadShotDistanceAI value="1000.000000" />
+          <MaxHeadShotDistanceAI value="1000.000000" />
+          <HeadShotDamageModifierAI value="1000.000000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175000" />
+          <MinHeadShotDistancePlayer value="5.000000" />
+          <MaxHeadShotDistancePlayer value="40.000000" />
+          <HeadShotDamageModifierPlayer value="18.000000" />
+          <Damage value="1500.000000" />
+          <DamageTime value="1.000000" />
+          <DamageTimeInVehicle value="1.000000" />
+          <DamageTimeInVehicleHeadShot value="1.000000" />
+          <HitLimbsDamageModifier value="0.500000" />
+          <NetworkHitLimbsDamageModifier value="0.800000" />
+          <LightlyArmouredDamageModifier value="0.750000" />
+          <Force value="50.000000" />
+          <ForceHitPed value="190.000000" />
+          <ForceHitVehicle value="3000.000000" />
+          <ForceHitFlyingHeli value="4750.000000" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1.000000" />
+          <ForceFalloffRangeStart value="0.000000" />
+          <ForceFalloffRangeEnd value="50.000000" />
+          <ForceFalloffMin value="1.000000" />
+          <ProjectileForce value="2000.000000" />
+          <FragImpulse value="10.000000" />
+          <Penetration value="10.000000" />
+          <VerticalLaunchAdjustment value="0.000000" />
+          <DropForwardVelocity value="0.000000" />
+          <Speed value="7000.000000" />
+          <BulletsInBatch value="1" />
+          <BatchSpread value="0.000000" />
+          <ReloadTimeMP value="3.000000" />
+          <ReloadTimeSP value="3.000000" />
+          <VehicleReloadTime value="3.000000" />
+          <AnimReloadRate value="1.000000" />
+          <BulletsPerAnimLoop value="1" />
+          <TimeBetweenShots value="0.147000" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.000000" />
+          <SpinUpTime value="0.000000" />
+          <SpinTime value="0.000000" />
+          <SpinDownTime value="0.000000" />
+          <AlternateWaitTime value="-1.000000" />
+          <BulletBendingNearRadius value="0.000000" />
+          <BulletBendingFarRadius value="0.750000" />
+          <BulletBendingZoomedRadius value="0.375000" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_ROCKET</EffectGroup>
+            <FlashFx />
+            <FlashFxAlt />
+            <MuzzleSmokeFx />
+            <MuzzleSmokeFxMinLevel value="0.000000" />
+            <MuzzleSmokeFxIncPerShot value="0.000000" />
+            <MuzzleSmokeFxDecPerSec value="0.000000" />
+            <ShellFx />
+            <TracerFx />
+            <PedDamageHash />
+            <TracerFxChanceSP value="0.000000" />
+            <TracerFxChanceMP value="0.000000" />
+            <FlashFxChanceSP value="0.000000" />
+            <FlashFxChanceMP value="0.000000" />
+            <FlashFxAltChance value="0.000000" />
+            <FlashFxScale value="5.000000" />
+            <FlashFxLightEnabled value="false" />
+            <FlashFxLightCastsShadows value="true" />
+            <FlashFxLightOffsetDist value="0.000000" />
+            <FlashFxLightRGBAMin x="0.000000" y="0.000000" z="0.000000" />
+            <FlashFxLightRGBAMax x="0.000000" y="0.000000" z="0.000000" />
+            <FlashFxLightIntensityMinMax x="0.000000" y="0.000000" />
+            <FlashFxLightRangeMinMax x="0.000000" y="0.000000" />
+            <FlashFxLightFalloffMinMax x="0.000000" y="0.000000" />
+            <GroundDisturbFxEnabled value="false" />
+            <GroundDisturbFxDist value="5.000000" />
+            <GroundDisturbFxNameDefault />
+            <GroundDisturbFxNameSand />
+            <GroundDisturbFxNameDirt />
+            <GroundDisturbFxNameWater />
+            <GroundDisturbFxNameFoliage />
+          </Fx>
+          <InitialRumbleDuration value="50" />
+          <InitialRumbleIntensity value="1.000000" />
+          <InitialRumbleIntensityTrigger value="0.950000" />
+          <RumbleDuration value="20" />
+          <RumbleIntensity value="1.000000" />
+          <RumbleIntensityTrigger value="0.850000" />
+          <RumbleDamageIntensity value="1.000000" />
+          <NetworkPlayerDamageModifier value="1.000000" />
+          <NetworkPedDamageModifier value="1.000000" />
+          <NetworkHeadShotPlayerDamageModifier value="1.500000" />
+          <LockOnRange value="1000.000000" />
+          <WeaponRange value="1000.000000" />
+          <BulletDirectionOffsetInDegrees value="0.000000" />
+          <AiSoundRange value="-1.000000" />
+          <AiPotentialBlastEventRange value="-1.000000" />
+          <DamageFallOffRangeMin value="500.000000" />
+          <DamageFallOffRangeMax value="500.000000" />
+          <DamageFallOffModifier value="1.000000" />
+          <VehicleWeaponHash>VEHICLE_DATA_TURRET_INSURGENT</VehicleWeaponHash>
+          <DefaultCameraHash>INSURGENT_TURRET_CAMERA</DefaultCameraHash>
+          <AimCameraHash>INSURGENT_TURRET_AIM_CAMERA</AimCameraHash>
+          <FireCameraHash>INSURGENT_TURRET_FIRE_CAMERA</FireCameraHash>
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <AssistedAimingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <AssistedAlternativeOrScopedCameraHash />
+          <CameraFov value="35.000000" />
+          <ZoomFactorForAccurateMode value="1.000000" />
+          <RecoilShakeHash>MG_RECOIL_SHAKE</RecoilShakeHash>
+        <RecoilShakeHashFirstPerson>FPS_MG_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash>DEFAULT_THIRD_PERSON_ACCURACY_OFFSET_SHAKE</AccuracyOffsetShakeHash>
+          <MinTimeBetweenRecoilShakes value="100" />
+          <RecoilShakeAmplitude value="0.200000" />
+          <ExplosionShakeAmplitude value="-1.000000" />
+          <ReticuleHudPosition x="0.500000" y="0.500000" />
+          <AimOffsetMin x="0.285000" y="0.175000" z="0.275000" />
+          <AimProbeLengthMin value="0.525000" />
+          <AimOffsetMax x="0.225000" y="-0.050000" z="0.400000" />
+          <AimProbeLengthMax value="0.415000" />
+          <TorsoAimOffset x="-0.900000" y="0.550000" />
+          <TorsoCrouchedAimOffset x="0.100000" y="0.120000" />
+          <LeftHandIkOffset x="0.015000" y="0.095000" z="-0.008000" />
+          <ReticuleMinSizeStanding value="0.600000" />
+          <ReticuleMinSizeCrouched value="0.500000" />
+          <ReticuleScale value="0.300000" />
+          <ReticuleStyleHash>VULCAN_ROCKET</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash>VULKAN_ROCKET_COCKPIT_VIEW</FirstPersonReticuleStyleHash>
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_V_ROCKETPOD</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>ROCKET</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1.000000" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Gun Gun Vehicle EnforceAimingRestrictions Turret StaticReticulePosition</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="DEFAULT" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1.000000" />
+          <FiringBreathingAdditiveWeight value="1.000000" />
+          <StealthAimingBreathingAdditiveWeight value="0.000000" />
+          <StealthFiringBreathingAdditiveWeight value="0.000000" />
+          <AimingLeanAdditiveWeight value="1.000000" />
+          <FiringLeanAdditiveWeight value="1.000000" />
+          <StealthAimingLeanAdditiveWeight value="0.000000" />
+          <StealthFiringLeanAdditiveWeight value="0.000000" />
+          <ExpandPedCapsuleRadius value="0.000000" />
+          <HudDamage value="30" />
+          <HudSpeed value="60" />
+          <HudCapacity value="50" />
+          <HudAccuracy value="40" />
+          <HudRange value="60" />
+        </Item>	  
+       </Infos>
+      </Item>
+    <Item />
+  </Infos>
+  <VehicleWeaponInfos>
+    <Item type="CVehicleWeaponInfo">
+      <Name>VEHICLE_DATA_TURRET_INSURGENT</Name>
+      <KickbackAmplitude value="0.000100" />
+      <KickbackImpulse value="0.001000" />
+    </Item>
+  </VehicleWeaponInfos>
+  <Name>DLC - Turret (Insurgent)</Name>
+</CWeaponInfoBlob>
