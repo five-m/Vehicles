@@ -23,8 +23,14 @@ Do not upload special characters or use non english folder names, that will not 
 
 Use the server.cfg and copy it's content to your own server.cfg WARNING: DO NOT REPLACE!!!.
 
+### Pull requests
+If your vehicle is not listed, or you would like to see another type of vehicle category please open a new pull request.
+
 ## Changelog:
 v1.1
 Added "Chevrolet".
+
 Added "Cadillac".
+
 Added "server.cfg".
+
