@@ -1,7 +1,7 @@
 Cars pack Mr.TnT.
 Converted by BlackKnife
 
-Folder is pre-named, just put it into your resourses folder.
+Rename 2017 Ford Raptor > -TO- > raptor17
 
 
 add start raptor17 to your server.cfg
