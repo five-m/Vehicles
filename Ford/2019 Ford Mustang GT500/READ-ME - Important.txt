@@ -1,7 +1,7 @@
 Cars pack Mr.TnT.
 Converted by BlackKnife
 
-Folder is pre-named, just put it into your resourses folder.
+Rename 2019 Ford Mustang GT500 > -TO- > 19gt500
 
 
 add start 19gt500 to your server.cfg
