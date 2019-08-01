@@ -1,0 +1,5 @@
+Cars pack by Mr.TnT.
+
+rename this file from Ferrari GTC4 Lusso > -TO- > gtcl
+
+add start gtcl to your server.cfg
