@@ -1,0 +1,8 @@
+Cars pack Mr.TnT.
+
+Rename this folder from Ford Mustang GT 2018 > -TO- > fmgt
+
+
+add start fmgt to your server.cfg
+
+https://www.gta5-mods.com/vehicles/ford-mustang-gt-2018-add-on-replace
