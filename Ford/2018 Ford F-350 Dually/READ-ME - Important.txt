@@ -1,0 +1,12 @@
+Cars pack Mr.TnT.
+Converted by BlackKnife
+
+Rename 2018 Ford F-350 Dually > -TO-> 18f350
+
+
+add start 18f350 to your server.cfg
+
+Just a heads up, you get TWO vehicles in this, both the same, but ONE can pull a goose-neck trailer and the OTHER can pull normal trailers.
+
+
+https://www.gta5-mods.com/vehicles/2018-ford-f-350-super-duty-dually-stock-goose-neck-bumper-add-on

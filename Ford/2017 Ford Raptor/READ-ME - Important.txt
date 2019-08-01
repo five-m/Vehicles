@@ -1,0 +1,10 @@
+Cars pack Mr.TnT.
+Converted by BlackKnife
+
+Rename 2017 Ford Raptor > -TO- > raptor17
+
+
+add start raptor17 to your server.cfg
+
+
+https://www.gta5-mods.com/vehicles/2019-ford-f-350-king-ranch-izac768
