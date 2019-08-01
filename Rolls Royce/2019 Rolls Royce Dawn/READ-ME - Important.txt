@@ -1,7 +1,7 @@
 Cars pack Mr.TnT.
 Converted by BlackKnife
 
-Folder is pre-named, just put it into your resourses folder.
+Rename 2019 Rolls Royce Dawn > -TO- > dawn
 
 
 add start dawn to your server.cfg
