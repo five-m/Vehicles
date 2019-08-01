@@ -28,9 +28,4 @@ If your vehicle is not listed, or you would like to see another type of vehicle 
 
 ## Changelog:
 v1.1
-Added "Chevrolet".
-
-Added "Cadillac".
-
-Added "server.cfg".
-
+Initial Release
