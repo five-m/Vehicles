@@ -1,7 +1,7 @@
 Cars pack Mr.TnT.
 Converted by BlackKnife
 
-Take out [boats] [helis] [milcars] [miltrucks] [planes] [tanks] and put into your resources folder.
+Take out ah1 ah6 ah6d ahx and amke a folder called [helis] and them ino that folder. Then oncce you do that, put [helis] into your resources folder.
 
 
 https://www.gta5-mods.com/vehicles/war-pack-special-edition-usa-add-on
