@@ -1,0 +1,7 @@
+Cars pack by Mr.TnT
+
+rename this folder from Rolls-Royce Cullinan 2019 > -To- > rculi
+
+add start rculi to your server.cfg
+
+https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-2019-add-on
