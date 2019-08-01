@@ -1,4 +1,8 @@
 This is the cars list that i used to create my repo: https://github.com/WajihHalawani/FiveM-Cars
+[Rolls-Royce]
+https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-2019-add-on
+[Ferrari]
+https://www.gta5-mods.com/vehicles/ferrari-gtc4lusso-add-on-replace
 chevrolet
 https://www.gta5-mods.com/vehicles/2016-chevrolet-suburban-add-on-replace
 https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2019
@@ -10,7 +14,7 @@ https://www.gta5-mods.com/vehicles/cadillac-escalade-esv-gmt900-12
 GMC
 https://www.gta5-mods.com/vehicles/2015-gmc-yukon-denali
 Ford
-https://www.gta5-mods.com/vehicles/ford-mustang-gt-2015-add-on-replace-animated-template
+https://www.gta5-mods.com/vehicles/ford-mustang-gt-2018-add-on-replace
 https://www.gta5-mods.com/vehicles/ford-crown-victoria-2011-retired
 https://www.gta5-mods.com/vehicles/ford-gt-2017-add-on-version
 https://www.gta5-mods.com/vehicles/2020-ford-f-250-super-duty-add-on-fivem-friendly
