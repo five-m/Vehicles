@@ -1,0 +1,10 @@
+Cars pack Mr.TnT.
+Converted by BlackKnife
+
+Folder is pre-named, just put it into your resourses folder.
+
+
+add start dawn to your server.cfg
+
+
+https://www.gta5-mods.com/vehicles/rolls-royce-dawn-mansory
