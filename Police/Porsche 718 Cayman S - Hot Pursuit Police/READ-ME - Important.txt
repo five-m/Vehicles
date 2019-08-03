@@ -1,6 +1,6 @@
 Cars Pack By Mr.TnT.
 
-rename this folder from Porsche 718 Cayman S > -TO- > pol718
+rename this folder from Porsche 718 Cayman S - Hot Pursuit Police > -TO- > pol718
 
 add start pol718 to your server.cfg
 
