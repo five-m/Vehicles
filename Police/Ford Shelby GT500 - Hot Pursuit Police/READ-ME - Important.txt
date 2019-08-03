@@ -1,0 +1,8 @@
+Cars Pack By Mr.TnT.
+
+rename this folder from Ford Shelby GT500 - Hot Pursuit Police > -TO- > polgt500
+
+add start polgt500 to your server.cfg
+
+
+https://www.gta5-mods.com/vehicles/shelby-gt500-need-for-speed-hot-pursuit-police
