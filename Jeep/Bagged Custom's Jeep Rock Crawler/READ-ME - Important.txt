@@ -1,0 +1,8 @@
+Cars Pack By Mr.TnT.
+
+rename this folder from Bagged Custom's Jeep Rock Crawler > -TO- > crawler
+
+add start crawler to your server.cfg
+
+
+https://www.gta5-mods.com/vehicles/bagged-custom-s-jeep-rock-crawler-add-on
