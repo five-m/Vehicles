@@ -1,0 +1,9 @@
+Cars Pack By Mr.TnT.
+
+rename this folder from Mercedes S63 AMG Cabriolet By S4MuEL- V1.2 > -TO- > mers63c
+
+
+add start mers63c to your server.cfg
+
+
+https://www.gta5-mods.com/vehicles/mercedes-benz-amg-gt-r-2017
