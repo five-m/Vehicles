@@ -1,0 +1,7 @@
+Cars Pack By Mr.TnT.
+
+rename this folder from 2014 Mercedes-Benz S500 W222 > -TO- > s500w222
+
+add start s500w222 to your server.cfg
+
+https://www.gta5-mods.com/vehicles/mercedes-benz-s500-w222
