@@ -1,0 +1,7 @@
+Cars Pack By Mr.TnT.
+
+rename this folder from GMC Sierra 1500 Crew Cab All Terrain X 2017 > -TO- > gmcs
+
+add start gmcs to your server.cfg
+
+https://www.gta5-mods.com/vehicles/gmc-sierra-1500-crew-cab-all-terrain-x-2017-add-on
