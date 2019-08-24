@@ -1,2 +1,7 @@
 Cars Pack By Mr.TnT.
 
+rename this file to: 599gtox
+
+add start 599gtox to your server.cfg
+
+https://www.gta5-mods.com/vehicles/ferrari-gto-599xx-add-on
