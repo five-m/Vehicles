@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHandlingDataMgr>
+  <HandlingData>
+	<Item type="CHandlingData">
+      <handlingName>hilux1</handlingName>
+<fMass value="2988" />
+<fInitialDragCoeff value="1.0" />
+<fPercentSubmerged value="85.0" />
+      <vecCentreOfMassOffset x="0" y="0" z="0" />
+      <vecInertiaMultiplier x="1.0" y="0" z="2.0" />
+<fDriveBiasFront value="0.0" />
+<nInitialDriveGears value="4" />
+<fInitialDriveForce value="0.272" />
+<fDriveInertia value="1.0" />
+<fClutchChangeRateScaleUpShift value="6.3" />
+<fClutchChangeRateScaleDownShift value="6.3" />
+<fInitialDriveMaxFlatVel value="170.000000" />
+<fBrakeForce value="0.41" />
+<fBrakeBiasFront value="0.6" />
+<fHandBrakeForce value="0.6" />
+<fSteeringLock value="47.0" />
+<fTractionCurveMax value="1.54" />
+<fTractionCurveMin value="1.75" />
+<fTractionCurveLateral value="22.5" />
+<fTractionSpringDeltaMax value="0.5" />
+<fLowSpeedTractionLossMult value="1.4" />
+<fCamberStiffnesss value="0.1" />
+<fTractionBiasFront value="0.487" />
+<fTractionLossMult value="0.5" />
+<fSuspensionForce value="1.69" />
+<fSuspensionCompDamp value="0.82" />
+<fSuspensionReboundDamp value="0.82" />
+<fSuspensionUpperLimit value="0.02" />
+<fSuspensionLowerLimit value="-0.09" />
+<fSuspensionRaise value="0.00" />
+<fSuspensionBiasFront value="0.49" />
+<fAntiRollBarForce value="0.18" />
+<fAntiRollBarBiasFront value="-1.32" />
+<fRollCentreHeightFront value="0.05" />
+<fRollCentreHeightRear value="0.09" />
+<fCollisionDamageMult value="0.64" />
+<fWeaponDamageMult value="0.82" />
+<fDeformationDamageMult value="2.15" />
+<fEngineDamageMult value="0.93" />
+<fPetrolTankVolume value="262.50" />
+<fOilVolume value="189.84" />
+<fSeatOffsetDistX value="0.0" />
+<fSeatOffsetDistY value="0.0" />
+<fSeatOffsetDistZ value="0.0" />
+<nMonetaryValue value="50000" />
+      <strModelFlags>440010</strModelFlags>
+      <strHandlingFlags>0</strHandlingFlags>
+      <strDamageFlags>0</strDamageFlags>
+      <AIHandling>AVERAGE</AIHandling>
+      <SubHandlingData>
+        <Item type="CCarHandlingData">
+          <fBackEndPopUpCarImpulseMult value="0.1" />
+          <fBackEndPopUpBuildingImpulseMult value="0.03" />
+          <fBackEndPopUpMaxDeltaSpeed value="0.6" />
+        </Item>
+        <Item type="NULL" />
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+	<Item type="CHandlingData">
+     <handlingName>hilux2</handlingName>
+<fMass value="2988" />
+<fInitialDragCoeff value="1.0" />
+<fPercentSubmerged value="85.0" />
+      <vecCentreOfMassOffset x="0" y="0" z="0" />
+      <vecInertiaMultiplier x="1.0" y="0" z="2.0" />
+<fDriveBiasFront value="0.0" />
+<nInitialDriveGears value="4" />
+<fInitialDriveForce value="0.272" />
+<fDriveInertia value="1.0" />
+<fClutchChangeRateScaleUpShift value="6.3" />
+<fClutchChangeRateScaleDownShift value="6.3" />
+<fInitialDriveMaxFlatVel value="170.000000" />
+<fBrakeForce value="0.41" />
+<fBrakeBiasFront value="0.6" />
+<fHandBrakeForce value="0.6" />
+<fSteeringLock value="47.0" />
+<fTractionCurveMax value="1.64" />
+<fTractionCurveMin value="1.85" />
+<fTractionCurveLateral value="22.5" />
+<fTractionSpringDeltaMax value="0.5" />
+<fLowSpeedTractionLossMult value="1.4" />
+<fCamberStiffnesss value="0.1" />
+<fTractionBiasFront value="0.487" />
+<fTractionLossMult value="0.5" />
+<fSuspensionForce value="1.69" />
+<fSuspensionCompDamp value="0.82" />
+<fSuspensionReboundDamp value="0.82" />
+<fSuspensionUpperLimit value="0.02" />
+<fSuspensionLowerLimit value="-0.09" />
+<fSuspensionRaise value="0.00" />
+<fSuspensionBiasFront value="0.49" />
+<fAntiRollBarForce value="0.18" />
+<fAntiRollBarBiasFront value="-1.32" />
+<fRollCentreHeightFront value="0.05" />
+<fRollCentreHeightRear value="0.09" />
+<fCollisionDamageMult value="0.64" />
+<fWeaponDamageMult value="0.82" />
+<fDeformationDamageMult value="2.15" />
+<fEngineDamageMult value="0.93" />
+<fPetrolTankVolume value="262.50" />
+<fOilVolume value="189.84" />
+<fSeatOffsetDistX value="0.0" />
+<fSeatOffsetDistY value="0.0" />
+<fSeatOffsetDistZ value="0.0" />
+<nMonetaryValue value="50000" />
+      <strModelFlags>440010</strModelFlags>
+      <strHandlingFlags>0</strHandlingFlags>
+      <strDamageFlags>0</strDamageFlags>
+      <AIHandling>AVERAGE</AIHandling>
+      <SubHandlingData>
+        <Item type="CCarHandlingData">
+          <fBackEndPopUpCarImpulseMult value="0.1" />
+          <fBackEndPopUpBuildingImpulseMult value="0.03" />
+          <fBackEndPopUpMaxDeltaSpeed value="0.6" />
+        </Item>
+        <Item type="NULL" />
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+	<Item type="CHandlingData">
+      <handlingName>hilux3</handlingName>
+<fMass value="2988" />
+<fInitialDragCoeff value="1.0" />
+<fPercentSubmerged value="85.0" />
+      <vecCentreOfMassOffset x="0" y="0" z="0" />
+      <vecInertiaMultiplier x="1.0" y="0" z="2.0" />
+<fDriveBiasFront value="0.0" />
+<nInitialDriveGears value="4" />
+<fInitialDriveForce value="0.472" />
+<fDriveInertia value="1.0" />
+<fClutchChangeRateScaleUpShift value="4.3" />
+<fClutchChangeRateScaleDownShift value="4.3" />
+<fInitialDriveMaxFlatVel value="190.000000" />
+<fBrakeForce value="0.41" />
+<fBrakeBiasFront value="0.6" />
+<fHandBrakeForce value="0.6" />
+<fSteeringLock value="47.0" />
+<fTractionCurveMax value="1.96" />
+<fTractionCurveMin value="2.85" />
+<fTractionCurveLateral value="22.5" />
+<fTractionSpringDeltaMax value="0.5" />
+<fLowSpeedTractionLossMult value="1.4" />
+<fCamberStiffnesss value="0.1" />
+<fTractionBiasFront value="0.487" />
+<fTractionLossMult value="0.5" />
+<fSuspensionForce value="1.69" />
+<fSuspensionCompDamp value="0.82" />
+<fSuspensionReboundDamp value="0.82" />
+<fSuspensionUpperLimit value="0.02" />
+<fSuspensionLowerLimit value="-0.09" />
+<fSuspensionRaise value="0.00" />
+<fSuspensionBiasFront value="0.49" />
+<fAntiRollBarForce value="0.18" />
+<fAntiRollBarBiasFront value="-1.32" />
+<fRollCentreHeightFront value="0.05" />
+<fRollCentreHeightRear value="0.09" />
+<fCollisionDamageMult value="0.64" />
+<fWeaponDamageMult value="0.82" />
+<fDeformationDamageMult value="2.15" />
+<fEngineDamageMult value="0.93" />
+<fPetrolTankVolume value="262.50" />
+<fOilVolume value="189.84" />
+<fSeatOffsetDistX value="0.0" />
+<fSeatOffsetDistY value="0.0" />
+<fSeatOffsetDistZ value="0.0" />
+<nMonetaryValue value="50000" />
+      <strModelFlags>440010</strModelFlags>
+      <strHandlingFlags>0</strHandlingFlags>
+      <strDamageFlags>0</strDamageFlags>
+      <AIHandling>AVERAGE</AIHandling>
+      <SubHandlingData>
+        <Item type="CCarHandlingData">
+          <fBackEndPopUpCarImpulseMult value="0.1" />
+          <fBackEndPopUpBuildingImpulseMult value="0.03" />
+          <fBackEndPopUpMaxDeltaSpeed value="0.6" />
+        </Item>
+        <Item type="NULL" />
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+  </HandlingData>
+</CHandlingDataMgr>
