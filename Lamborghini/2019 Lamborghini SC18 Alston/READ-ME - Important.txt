@@ -1,0 +1,7 @@
+Cars Pack By Mr.TnT.
+
+rename this folder to: sc18
+
+add start sc18 to your server.cfg
+
+https://www.gta5-mods.com/vehicles/2019-lamborghini-sc18-alston-add-on
