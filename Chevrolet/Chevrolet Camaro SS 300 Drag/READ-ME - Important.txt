@@ -1,0 +1,7 @@
+Cars Pack By Mr.TnT.
+
+rename this folder to: camaross
+
+add start camaross to your server.cfg
+
+https://www.gta5-mods.com/vehicles/chevrolet-camaro-ss-300-drag-add-on-replace-extras
