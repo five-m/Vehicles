@@ -1,0 +1,11 @@
+Cars Pack By Mr.TnT.
+
+rename this folder to: tampa3
+
+add start tampa3 to your server.cfg
+
+To spawn chrome livery Drift Tampa V2 spawn with: tampa4
+To spawn colourable multi-livery Drift Tampa V2 spawn with: tampa3
+For replace Drift Tampa V2 spawn with: tampa2 
+
+https://www.gta5-mods.com/vehicles/declasse-drift-tampa-v2-tuners-outlaws-add-on-liveries
