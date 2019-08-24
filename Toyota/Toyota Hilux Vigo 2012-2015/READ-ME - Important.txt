@@ -1,2 +1,7 @@
 Cars Pack By Mr.TnT.
 
+rename this folder to: hilux1
+
+add start hilux1 to your server.cfg
+
+https://www.gta5-mods.com/vehicles/toyota-hilux-vigo-2012-2015-add-on-version-3-livery-extras-template-tuning-200-dirt
