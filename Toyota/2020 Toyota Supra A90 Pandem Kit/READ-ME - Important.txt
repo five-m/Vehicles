@@ -1,0 +1,5 @@
+Cars pack by Mr.TnT.
+
+folder name should be: pandema90
+
+add start pandema90 in your server.cfg
