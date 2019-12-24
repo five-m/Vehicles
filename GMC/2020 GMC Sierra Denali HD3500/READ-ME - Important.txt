@@ -1,0 +1,5 @@
+Cars pack by Mr.TnT.
+
+folder name should be: 20denalihd
+
+add start 20denalihd in your server.cfg
